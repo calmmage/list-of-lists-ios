@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>List of Lists</title>
+  <desc>Mint pixel-art list with two indented rows on a navy square.</desc>
+  <rect width="32" height="32" fill="#182534"/>
+  <g fill="#74cecb">
+    <rect x="5" y="7" width="3" height="3"/>
+    <rect x="10" y="7" width="14" height="3"/>
+    <rect x="10" y="13" width="3" height="3"/>
+    <rect x="15" y="13" width="12" height="3"/>
+    <rect x="10" y="18" width="3" height="3"/>
+    <rect x="15" y="18" width="10" height="3"/>
+    <rect x="5" y="24" width="3" height="3"/>
+    <rect x="10" y="24" width="12" height="3"/>
+  </g>
+</svg>
